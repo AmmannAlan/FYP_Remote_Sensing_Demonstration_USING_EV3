@@ -1,6 +1,6 @@
 # FYP_Remote_Sensing_Demonstration_USING_EV3
 
-# Final Year Project Intro
+### Final Year Project Intro
 In this project the ultrasonic sensor would be equipped to the EV3 robot and they will be used to create and display the maps of the robot's surroundings to a user. The robot can be contacted remotely using Bluetooth or WiFi which will allow the information from sensors to be transmitted back to a second computer for display. 
 
 In a more developed case, the user should be able to control the robot remotely. The 
